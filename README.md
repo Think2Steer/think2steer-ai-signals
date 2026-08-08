@@ -13,6 +13,16 @@ It helps teams understand what changed, why it matters, who should care, and wha
 - Supports briefing, newsletter, dashboard, and export workflows
 - Publishes structured signal events into the broader AI Impact Platform
 
+## Sample Output
+
+AI Signals produces export-ready briefings that turn high-volume AI ecosystem updates into a concise operating view.
+
+Sample public briefing:
+
+- [Weekly AI Signals - August 3, 2026](sample-output/weekly-ai-signals-2026-08-03.pdf)
+
+The sample PDF demonstrates the product's public-facing output: curated AI updates, practical interpretation, and action-oriented framing for product and engineering teams.
+
 ## Product Problem
 
 AI teams, product leaders, and executives are exposed to constant changes across models, vendors, research, regulation, tools, and platform capabilities.
@@ -54,4 +64,3 @@ Active private product development.
 ## Source Code
 
 The source code is private because this is an active commercial product. This public repository is a product overview for recruiters, collaborators, and interviewers.
-
