@@ -21,6 +21,10 @@ Sample public briefing:
 
 - [Weekly AI Signals - August 3, 2026](sample-output/weekly-ai-signals-2026-08-03.pdf)
 
+<a class="libutton" href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7452104139117076480" target="_blank">Subscribe to the weekly edition    on LinkedIn</a>
+
+
+
 The sample PDF demonstrates the product's public-facing output: curated AI updates, practical interpretation, and action-oriented framing for product and engineering teams.
 
 ## Product Problem
